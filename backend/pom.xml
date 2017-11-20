@@ -27,7 +27,7 @@
         </dependency>
 
         <dependency>
-            <groupId>com.jdriven.ng2boot</groupId>
+            <groupId>ng2boot</groupId>
             <artifactId>frontend</artifactId>
             <version>${project.version}</version>
             <scope>runtime</scope>
